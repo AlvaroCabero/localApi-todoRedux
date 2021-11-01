@@ -1,7 +1,7 @@
 import cors from "cors";
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.router("todoRedux.json");
+const router = jsonServer.router("todos.json");
 const port = process.env.PORT || 4000;
 
 server.use(cors());

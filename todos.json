@@ -2,8 +2,8 @@
   "todos": [
     {
       "id": 1,
-      "name": "pokechu",
-      "url": "https://pm1.narvii.com/6259/34f49edac85cebf4241af0f46aeba8f4501c7c1d_hq.jpg",
+      "name": "todo",
+      "description": "description",
       "state": true
     }
   ]

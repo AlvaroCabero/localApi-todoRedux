@@ -2,8 +2,20 @@
   "todos": [
     {
       "id": 1,
-      "name": "todo",
-      "description": "description",
+      "name": "Aprender React",
+      "description": "Estudia, pica, estudia, pica...",
+      "state": true
+    },
+    {
+      "id": 2,
+      "name": "Aprender Redux",
+      "description": "Lo mismo que con React, pero más",
+      "state": true
+    },
+    {
+      "id": 3,
+      "name": "Aprender Bootstrap React",
+      "description": "Más cosas y más cosas, aunque esto es más fácil",
       "state": true
     }
   ]
